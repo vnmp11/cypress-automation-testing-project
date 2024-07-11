@@ -1,1 +1,1 @@
-# cypress-automation-testing-project
+# Cypress Automation Testing Project
